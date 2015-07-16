@@ -6,4 +6,4 @@ A funky mathematical symmetry based, one-page game, build with objective C. This
 Processing language for symertrical drawings and movements.
 <a>http://guangless.com/web/VOKE_2.html</a>
 
-Translate the concept from processing.org to objective C. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
